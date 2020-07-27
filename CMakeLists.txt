@@ -3,4 +3,4 @@ project(Kaboom)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Kaboom main.cpp)
+add_executable(Kaboom main.cpp size.h)
